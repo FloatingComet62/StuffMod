@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stuff:block/raw_citrine_block"
+  }
+}

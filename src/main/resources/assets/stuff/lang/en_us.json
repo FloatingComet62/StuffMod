@@ -1,4 +1,11 @@
 {
   "item.stuff.citrine": "Citrine",
-  "item.stuff.raw_citrine": "Raw Citrine"
+  "item.stuff.raw_citrine": "Raw Citrine",
+
+  "block.stuff.citrine_block": "Citrine Block",
+  "block.stuff.raw_citrine_block": "Raw Citrine Block",
+  "block.stuff.citrine_ore": "Citrine Ore Block",
+  "block.stuff.deepslate_citrine_ore": "Deepslate Citrine Ore Block",
+  "block.stuff.endstone_citrine_ore": "Endstone Citrine Ore Block",
+  "block.stuff.netherrack_citrine_ore": "Netherrack Citrine Ore Block"
 }

@@ -14,9 +14,13 @@ public class ModItems {
 
 
     public static final RegistryObject<Item> Citrine = ITEMS.register("citrine",
-            ()-> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            ()-> new Item(new Item.Properties()
+                    .tab(CreativeModeTab.TAB_MISC)
+            ));
     public static final RegistryObject<Item> Raw_Citrine = ITEMS.register("raw_citrine",
-            ()-> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            ()-> new Item(new Item.Properties()
+                    .tab(CreativeModeTab.TAB_MISC)
+            ));
 
 
     public static void register(IEventBus eventBus){
