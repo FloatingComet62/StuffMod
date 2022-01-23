@@ -7,5 +7,7 @@
   "block.stuff.citrine_ore": "Citrine Ore Block",
   "block.stuff.deepslate_citrine_ore": "Deepslate Citrine Ore Block",
   "block.stuff.endstone_citrine_ore": "Endstone Citrine Ore Block",
-  "block.stuff.netherrack_citrine_ore": "Netherrack Citrine Ore Block"
+  "block.stuff.netherrack_citrine_ore": "Netherrack Citrine Ore Block",
+
+  "itemGroup.stufftab": "Stuff Mod"
 }

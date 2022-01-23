@@ -1,6 +1,7 @@
 package com.comet.stuff.block;
 
 import com.comet.stuff.StuffMod;
+import com.comet.stuff.item.ModCreativeModeTab;
 import com.comet.stuff.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
@@ -25,42 +26,42 @@ public class ModBlocks {
             .strength(9f)
             .requiresCorrectToolForDrops()
     ),
-            CreativeModeTab.TAB_BUILDING_BLOCKS
+            ModCreativeModeTab.Stuff_Tab
     );
     public static final RegistryObject<Block> Citrine_Ore_Block = registerBlock("citrine_ore", () -> new Block(BlockBehaviour.Properties
                     .of(Material.METAL)
                     .strength(9f)
                     .requiresCorrectToolForDrops()
             ),
-            CreativeModeTab.TAB_BUILDING_BLOCKS
+            ModCreativeModeTab.Stuff_Tab
     );
     public static final RegistryObject<Block> DeepSlate_Citrine_Ore_Block = registerBlock("deepslate_citrine_ore", () -> new Block(BlockBehaviour.Properties
                     .of(Material.METAL)
                     .strength(9f)
                     .requiresCorrectToolForDrops()
             ),
-            CreativeModeTab.TAB_BUILDING_BLOCKS
+            ModCreativeModeTab.Stuff_Tab
     );
     public static final RegistryObject<Block> EndStone_Citrine_Ore_Block = registerBlock("endstone_citrine_ore", () -> new Block(BlockBehaviour.Properties
                     .of(Material.METAL)
                     .strength(9f)
                     .requiresCorrectToolForDrops()
             ),
-            CreativeModeTab.TAB_BUILDING_BLOCKS
+            ModCreativeModeTab.Stuff_Tab
     );
     public static final RegistryObject<Block> NetherRack_Citrine_Ore_Block = registerBlock("netherrack_citrine_ore", () -> new Block(BlockBehaviour.Properties
                     .of(Material.METAL)
                     .strength(9f)
                     .requiresCorrectToolForDrops()
             ),
-            CreativeModeTab.TAB_BUILDING_BLOCKS
+            ModCreativeModeTab.Stuff_Tab
     );
     public static final RegistryObject<Block> Raw_Citrine_Block = registerBlock("raw_citrine_block", () -> new Block(BlockBehaviour.Properties
                     .of(Material.METAL)
                     .strength(9f)
                     .requiresCorrectToolForDrops()
             ),
-            CreativeModeTab.TAB_BUILDING_BLOCKS
+            ModCreativeModeTab.Stuff_Tab
     );
 
 
