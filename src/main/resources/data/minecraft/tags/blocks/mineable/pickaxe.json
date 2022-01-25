@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "stuff:citrine_ore",
+    "stuff:citrine_block",
+    "stuff:raw_citrine_block",
+    "stuff:deepslate_citrine_ore",
+    "stuff:endstone_citrine_ore",
+    "stuff:netherrack_citrine_ore"
+  ]
+}
